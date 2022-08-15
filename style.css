@@ -1,0 +1,194 @@
+.olxlogo{
+    width: 3%;
+    height: 2%;
+
+}
+.carlogo{
+    position: relative;
+    left: 50px;
+    width: 3%;
+    height: 2%;
+
+}
+.carlogo:hover{
+    color:cadetblue;
+    
+}
+
+.propertylogo{
+    position: relative;
+    left: 100px;
+    width: 3%;
+    height: 2%;
+}
+.propertylogo:hover{
+    color:blue;
+}
+#logos{
+width: 5%;
+}
+#search{
+    width: 20%;
+    height: 40px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdIcfztZ86GpGTBN0JyGffPwm7dmmakN8Q8pSjqaAC&s");
+    background-size: 28px;
+    background-repeat: no-repeat;
+    padding-left: 40px;
+    background-position: left;
+background-position-y: center;
+
+    
+}
+#seclogoolx{
+    width: 5%;
+}
+.search{
+    display: \;
+}
+#firser{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Search_Icon.svg/1024px-Search_Icon.svg.png");
+background-size: 30px;
+background-repeat: no-repeat;
+padding-left: 30px;
+
+}
+#firstform{
+width: 22%;
+}
+#secform{
+    width: 71% !important;
+    height: 40px;
+}
+
+
+
+.sell{
+border-style: solid;
+border-bottom-color: aqua;
+border-top-color: rgb(250, 212, 162);
+border-left-color: rgb(210, 244, 198);
+border-right-color: rgb(244, 196, 228);
+margin: 1px;
+
+border-radius: 20px;
+font-size: 20px;
+    /* border-style: solid double dotted;
+    border-color: #ff0000 #00ff00 #0000ff; */
+}
+div.navbar{
+    position: fixed;
+    top: 0px;
+    z-index: 1;
+    background-color: aliceblue;
+}
+.tab1{
+    width: 100%;
+    position: absolute;
+    top: 100px;
+margin-right: 30%;
+background-color: aliceblue;    
+    
+}
+
+td.td1:hover{
+    color: aqua;
+}
+ div.sliderposition{
+    position: absolute;
+    top: 130px;
+}
+.card1{
+    margin:10px;
+    border-radius: 5px !important;
+    border: 2px solid black !important;
+}
+
+.card2{
+    margin: 10px;
+    border-radius: 5px !important;
+    border: 2px solid black !important;
+}
+.card3{
+    margin: 10px;
+    border-radius: 5px !important;
+    border: 2px solid black !important;
+}
+.card4{
+    margin: 10px;
+    border-radius: 5px !important;
+    border: 2px solid black !important;
+}
+/* .card1{
+    position: absolute;
+    top: 200px;
+} */
+.heartimg{
+    position: static;
+    right: 0px;
+    top: 0px;
+}
+
+/* .card1{
+    display: inline-block;
+    position: absolute;
+    left: 300px;
+    /* top: 0px; */
+
+/* .card2{
+    display: inline-block;
+    position: absolute;
+    bottom: 180px;
+    
+}
+.card3{
+    display: inline-block;
+    position: absolute;
+    bottom: 565px;
+    left: 600px;
+
+}
+.card4{
+    display: inline-block;
+    position: absolute;
+    bottom: 950px;
+    left: 900px;
+
+} */
+/* .firstdiv{
+    
+    margin-right: 60px;
+    margin-left: 60px;
+}
+.seconddiv{
+   
+    margin-right: 60px;
+    margin-left: 60px;
+    position: absolute;
+    top: 840px;
+
+} */
+.cards1{
+    position: relative;
+    left: 10px;
+    top: 200px;
+}
+.footers{
+    margin-bottom: 0px;
+    position: relative;
+    /* top: 1740px; */
+    bottom: -310px;
+    left: 0px;
+    width: 100%;
+    clear: both;
+    overflow: hidden;   
+    white-space: nowrap;
+    overflow: -moz-hidden-unscrollable;
+    text-overflow: ellipsis;
+}
+/* .thirddiv{
+    margin-right: 60px;
+    margin-left: 60px;
+    position: absolute;
+    top: 1240px;
+
+} */
